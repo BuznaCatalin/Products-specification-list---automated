@@ -1,4 +1,8 @@
 ## Automated script that copies a specification from a product (such as brand, price, in stock or not), creates a spreadsheet in excel and paste it there.
+
+## Files
+* > *Excel automation.py*
+
 ## Website used:
 - emag.ro - placi video
 
